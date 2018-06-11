@@ -1,0 +1,14 @@
+C:\Users\NgocAnh\Documents\GitHub\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\NgocAnh\Documents\GitHub\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\NgocAnh\Documents\GitHub\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.csprojResolveAssemblyReference.cache
+C:\Users\NgocAnh\Documents\GitHub\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\NgocAnh\Documents\GitHub\QuanLyNhanSu_Main\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\TamaoSeri\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\TamaoSeri\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\TamaoSeri\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\TamaoSeri\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\TamaoSeri\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.csprojResolveAssemblyReference.cache
+C:\Users\TamaoSeri\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\TamaoSeri\Desktop\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.pdb
